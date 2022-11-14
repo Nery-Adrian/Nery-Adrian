@@ -3,7 +3,7 @@
 <div align="center" >
   <a href="https://github.com/Nery-Adrian">
   <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nery-Adrian&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img width="30%" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nery-Adrian&layout=compact&langs_count=7&theme=cobalt"/>
+  <img width="100%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nery-Adrian&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ## Atualmente estou aprendendo as seguintes linguagens 
