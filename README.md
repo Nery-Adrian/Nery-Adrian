@@ -6,9 +6,14 @@
   <img width="100%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nery-Adrian&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-## Atualmente estou aprendendo as seguintes linguagens 
+<div align="center">
+  <img src="1588702423622.png"width='25%' />
+  <h2>Atualmente estou aprendendo as seguintes linguagens</h2>
   
-- Python, Java, Html, Css, Javascript, sql, php e vez ou outra venho criando soluções para alguns desafios/problemas para aperfeiçoar o que venho aprendendo.
+<p>Python, Java, Html, Css, Javascript, sql, php e vez ou outra venho criando soluções para alguns desafios/problemas para aperfeiçoar o que venho aprendendo.</p>
+
+</div>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width='25px' />
   <img margin-left:'40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"width='25px' />
@@ -17,5 +22,5 @@
   <img margin-left:'40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width='25px' />
   <img margin-left:'40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"width='25px' />
   <img margin-left:'40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"width='25px' />
-
+  
 </div>
